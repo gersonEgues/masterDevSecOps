@@ -12,4 +12,5 @@ app.listen(3000, () => {
   console.log('pruebas 3');
   console.log('pruebas 4');
   console.log('pruebas 5');
+  console.log('pruebas 6');
 });
